@@ -2,14 +2,15 @@
 
 
 
-### Membres du groupe :
+### Membres du groupe et contribution :
 
-1. ISSA ADBEL AZIZ (23A015FS): Résolution de l'exercice 5 et écriture du code Pyhton.
-2. SOH OUMBE STYVE(23A637FS): Résolution de l'exercice 3 et écriture du code Pyhton.
-3. TCHOBYANG-MBE JOSEPH MODESTE (23B280FS): Résolution de l'exercice 1 et écriture du code Python 
-4. YINGOUM FRANCIS-JUNIOR (23A552FS): Résolution de l'exercice 3 et écriture du code Python. 
-5. ISSAH MOHAMED YASSSIM (23A107FS): Résolution de l'exercice 5 et écriture du code Python.
-6. NDAWA GARA PROSPER (23B445FS): Résolution de l'exercice 5 et écriture du code Pyhton.
+1. ISSA ADBEL AZIZ (23A015FS): Implémentation des solutions Python.
+2. SOH OUMBE STYVE(23A637FS): Analyse, participation et proposition des solutions des exercices.
+3. TCHOBYANG-MBE JOSEPH MODESTE (23B280FS): Contribution à la logique algorithmique.
+4. YINGOUM FRANCIS-JUNIOR (23A552FS): Aide à la sturcturation du projet et réelecture des codes.
+5. ISSAH MOHAMED YASSSIM (23A107FS): Réalisation du fichier README. 
+6. NDAWA GARA PROSPER (23B445FS): Résolution complete de l'exercice 1.
+7. MAIBOSSA'A DANE PARFAITE (23B164FS): Contribution à la réalisation du fichier README.
 
 ## Exercice 1 : REVERSIBILITE DE NOMBRES (NOMBRES PALINDROMES)
 

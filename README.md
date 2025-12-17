@@ -4,7 +4,7 @@
 
 ### Membres du groupe et contribution :
 
-1. ISSA ADBEL AZIZ (23A015FS): Implémentation des solutions Python.
+1. ISSA ADBEL AZIZ (23A015FS): Implémentation des solutions Python dans Visual Studio Code.
 2. SOH OUMBE STYVE(23A637FS): Analyse, participation et proposition des solutions des exercices.
 3. TCHOBYANG-MBE JOSEPH MODESTE (23B280FS): Contribution à la logique algorithmique.
 4. YINGOUM FRANCIS-JUNIOR (23A552FS): Aide à la sturcturation du projet et réelecture des codes.
@@ -53,5 +53,6 @@ Le programme définit une fonction `compression_texte` qui :
 ### Exemple :
 - Texte a l'entrée : "aaaaabbbcc"
 - Texte de sortie : "a5b3c2"
+
 
 
